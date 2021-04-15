@@ -1,0 +1,5 @@
+rootProject.name = 'springcloud-consul-producer2'
+include 'entity'
+include 'api'
+include 'service'
+
